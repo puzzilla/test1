@@ -1,0 +1,26 @@
+[
+  {
+    "topic": "Game 2 location",
+    "fact": "Game #2 is labeled 'Somewhere in Kentucky — Four Days Later.' The city is not specified.",
+    "physicalPage": "118-119"
+  },
+  {
+    "topic": "Game 2 title layout",
+    "fact": "In the calibrated physical copy, the Game #2 image/title occupies physical pages 118-119 and physical page 120 is blank.",
+    "physicalPage": "118-120"
+  },
+  {
+    "topic": "Game 4 Tuscany estate",
+    "fact": "After the city extraction, the survivors are airlifted to Brazil, flown to Florence, then bused to another estate in the hills of Tuscany. Later Game 4 scenes on 'the grounds', including the Tipton/Saad duel in the wooded area at the far end of the grounds, are at this Tuscan estate.",
+    "physicalPage": "around 295 onward"
+  },
+  {
+    "topic": "Chile mountain",
+    "fact": "The Chile contestants climb La Montaña Serpiente, translated as Snake Mountain, on El Fin del Mundo off the coast of Chile.",
+    "physicalPage": "early Chile section"
+  },
+  {
+    "topic": "Physical page conventions",
+    "fact": "Every chapter begins on a fresh physical page. Printed text lines count chapter numbers and headers, but not page numbers or blank lines. A normal full prose page has up to 29 counted lines; a normal chapter-start page has about 22; the Epilogue start page 447 has 18. Exact page-boundary and chapter-start anchors override interpolation."
+  }
+]
